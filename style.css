@@ -1,0 +1,36 @@
+h1{
+    color: darkgoldenrod;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy ;
+    text-decoration-color: brown;
+    text-shadow: orange 2px 2px 2px;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    text-align: justify;
+    font-size: large;
+    background-color:lightblue;
+    color: darkblue;
+    border-color: blueviolet;
+    border-style: inset;
+    border-width: 10px;
+    padding: 10px
+}
+
+body{
+    background-image:url(images.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20pxpx;
+    padding: 20px;
+
+}
+body img{
+    opacity: 0.7;
+    max-width: 100%;
+    height: 10px;
+    border-radius: 50%;
+}
